@@ -1,4 +1,4 @@
-# Take Home Assignment - Loft
+# Take Home Assignment 
 Take Home Assignment
 
 # O Projeto
